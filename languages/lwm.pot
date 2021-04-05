@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Login with meta\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-05 15:43+0000\n"
+"POT-Creation-Date: 2021-04-05 15:54+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -223,8 +223,8 @@ msgstr ""
 
 #. Description of the plugin
 msgid ""
-"With this plugin your users can login with any user meta you selected. like: "
-"Full name, Website address and etc."
+"With the 'Login with meta'(LWM) plugin your users can log in with any user "
+"meta you selected. like: Full name, Website address, etc."
 msgstr ""
 
 #: Backend/Settings.php:107
