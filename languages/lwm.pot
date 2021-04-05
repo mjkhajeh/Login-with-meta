@@ -1,0 +1,232 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Login with meta\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-05 15:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6.1\n"
+"X-Domain: lwm"
+
+#: Backend/Settings.php:66
+msgid "Allow users login with"
+msgstr ""
+
+#: Backend/Settings.php:156
+msgid "Choose"
+msgstr ""
+
+#: Backend/Settings.php:75
+msgid "Create first name and last name fields in registration form"
+msgstr ""
+
+#: Backend/Settings.php:81
+msgid "Create first name and last name fields in woocommerce registration form"
+msgstr ""
+
+#: Backend/Settings.php:113
+msgid "Create phone number field in woocommerce register form"
+msgstr ""
+
+#: Backend/Settings.php:151
+msgid "Create this field in registration form"
+msgstr ""
+
+#: Backend/Settings.php:167
+msgid "Create this filed in woocommerce registration form"
+msgstr ""
+
+#: Backend/Settings.php:93
+msgid "Create website filed in registration form"
+msgstr ""
+
+#: Backend/Settings.php:99
+msgid "Create website filed in woocommerce registration form"
+msgstr ""
+
+#: Backend/Settings.php:126
+msgid "Custom Meta"
+msgstr ""
+
+#: Backend/Settings.php:161
+msgid "Date"
+msgstr ""
+
+#: Backend/Settings.php:158
+msgid "Email"
+msgstr ""
+
+#: Includes/UserForms/WC_Register.php:126
+msgid "Enter a valid phone number"
+msgstr ""
+
+#: Includes/UserForms/Register.php:83 Includes/UserForms/Register.php:88
+#: Includes/UserForms/Register.php:98 Includes/UserForms/Register.php:104
+#: Includes/UserForms/Register.php:112 Includes/UserForms/Register.php:123
+#: Includes/UserForms/Register.php:127 Includes/UserForms/WC_Register.php:89
+#: Includes/UserForms/WC_Register.php:94 Includes/UserForms/WC_Register.php:104
+#: Includes/UserForms/WC_Register.php:110
+#: Includes/UserForms/WC_Register.php:118
+#: Includes/UserForms/WC_Register.php:140
+#: Includes/UserForms/WC_Register.php:144
+msgid "ERROR"
+msgstr ""
+
+#: Backend/Settings.php:142
+msgid "Error for when value of this custom meta is exist for other user"
+msgstr ""
+
+#: Backend/Settings.php:154
+msgid "Field type"
+msgstr ""
+
+#: Includes/UserForms/Register.php:42 Includes/UserForms/WC_Register.php:39
+msgid "First name"
+msgstr ""
+
+#: Backend/Settings.php:70
+msgid "Fullname"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://mjkhajeh.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/login-with-meta/"
+msgstr ""
+
+#: Backend/Settings.php:157
+msgid "Input(Text)"
+msgstr ""
+
+#: Backend/Settings.php:146
+msgid "Label"
+msgstr ""
+
+#: Includes/UserForms/Register.php:46 Includes/UserForms/WC_Register.php:44
+msgid "Last name"
+msgstr ""
+
+#. Name of the plugin
+msgid "Login with meta"
+msgstr ""
+
+#: Backend/Settings.php:61
+msgid "Login with meta settings"
+msgstr ""
+
+#: Backend/UserProfile.php:30
+msgid "LWM custom field"
+msgstr ""
+
+#. Page title,
+#: Backend/Settings.php:19 Backend/Settings.php:20
+msgid "LWM Settings"
+msgstr ""
+
+#: Backend/Settings.php:129
+msgid "Meta key"
+msgstr ""
+
+#. Author of the plugin
+msgid "Mohammad Jafar Khajeh"
+msgstr ""
+
+#: Backend/Settings.php:118
+msgid "Move 'Phone Number' field for customers register form"
+msgstr ""
+
+#: Backend/Settings.php:136
+msgid "Name of field of your custom meta in registration form"
+msgstr ""
+
+#: Backend/Settings.php:160
+msgid "Number"
+msgstr ""
+
+#: Includes/UserForms/Login.php:98
+msgid "or"
+msgstr ""
+
+#: Includes/UserForms/Login.php:92
+msgid "or Fullname"
+msgstr ""
+
+#: Includes/UserForms/Login.php:96
+msgid "or Phone"
+msgstr ""
+
+#: Includes/UserForms/Login.php:94
+msgid "or Website"
+msgstr ""
+
+#: Includes/UserForms/WC_Register.php:58
+msgid "Phone Number"
+msgstr ""
+
+#: Includes/UserForms/WC_Register.php:123
+msgid "Phone number is required!"
+msgstr ""
+
+#: Includes/UserForms/Register.php:83 Includes/UserForms/WC_Register.php:89
+msgid "Please enter your first name"
+msgstr ""
+
+#: Includes/UserForms/Register.php:88 Includes/UserForms/WC_Register.php:94
+msgid "Please enter your last name"
+msgstr ""
+
+#: Includes/UserForms/Register.php:104 Includes/UserForms/WC_Register.php:110
+msgid "Please enter your website"
+msgstr ""
+
+#: Backend/Settings.php:140
+msgid "Register filed error"
+msgstr ""
+
+#: Backend/Settings.php:134
+msgid "Register filed name"
+msgstr ""
+
+#: Includes/UserForms/Register.php:98 Includes/UserForms/WC_Register.php:104
+msgid "This name is exist"
+msgstr ""
+
+#: Includes/UserForms/WC_Register.php:130
+msgid "This phone number is exist"
+msgstr ""
+
+#: Includes/UserForms/Register.php:112 Includes/UserForms/WC_Register.php:118
+msgid "This website is exist"
+msgstr ""
+
+#: Backend/Settings.php:159
+msgid "URL"
+msgstr ""
+
+#: Includes/UserForms/Register.php:54 Includes/UserForms/WC_Register.php:51
+msgid "Website"
+msgstr ""
+
+#: Backend/Settings.php:88
+msgid "Website Address"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"With this plugin your users can login with any user meta you selected. like: "
+"Full name, Website address and etc."
+msgstr ""
+
+#: Backend/Settings.php:107
+msgid "Woocommerce phone"
+msgstr ""

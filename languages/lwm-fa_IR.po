@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Login with meta\n"
+"POT-Creation-Date: 2019-07-16 10:17+0430\n"
+"PO-Revision-Date: 2021-04-05 15:43+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: init.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: Backend/Settings.php:66
+msgid "Allow users login with"
+msgstr "ورود با استفاده از"
+
+#: Backend/Settings.php:156
+msgid "Choose"
+msgstr "- انتخاب کنید"
+
+#: Backend/Settings.php:75
+msgid "Create first name and last name fields in registration form"
+msgstr "فیلدهای نام کوچک و نام خانوادگی را در فرم عضویت بساز"
+
+#: Backend/Settings.php:81
+msgid "Create first name and last name fields in woocommerce registration form"
+msgstr "فیلدهای نام کوچک و نام خانوادگی را در فرم عضویت ووکامرس بساز"
+
+#: Backend/Settings.php:113
+msgid "Create phone number field in woocommerce register form"
+msgstr "فیلد شماره تماس را در فرم عضویت ووکامرس بساز"
+
+#: Backend/Settings.php:151
+msgid "Create this field in registration form"
+msgstr "این فیلد را در صفحه عضویت بساز"
+
+#: Backend/Settings.php:167
+msgid "Create this filed in woocommerce registration form"
+msgstr "این فیلد را در قسمت عضویت ووکامرس بساز"
+
+#: Backend/Settings.php:93
+msgid "Create website filed in registration form"
+msgstr "فیلد آدرس سایت را در فرم عضویت بساز"
+
+#: Backend/Settings.php:99
+msgid "Create website filed in woocommerce registration form"
+msgstr "فیلد آدرس سایت را در فرم عضویت ووکامرس بساز"
+
+#: Backend/Settings.php:126
+msgid "Custom Meta"
+msgstr "متا دلخواه"
+
+#: Backend/Settings.php:161
+msgid "Date"
+msgstr "تاریخ"
+
+#: Backend/Settings.php:158
+#| msgid "Eamil"
+msgid "Email"
+msgstr "ایمیل"
+
+#: Includes/UserForms/WC_Register.php:126
+msgid "Enter a valid phone number"
+msgstr "یک شماره تماس معتبر وارد کنید"
+
+#: Includes/UserForms/Register.php:83 Includes/UserForms/Register.php:88
+#: Includes/UserForms/Register.php:98 Includes/UserForms/Register.php:104
+#: Includes/UserForms/Register.php:112 Includes/UserForms/Register.php:123
+#: Includes/UserForms/Register.php:127 Includes/UserForms/WC_Register.php:89
+#: Includes/UserForms/WC_Register.php:94 Includes/UserForms/WC_Register.php:104
+#: Includes/UserForms/WC_Register.php:110
+#: Includes/UserForms/WC_Register.php:118
+#: Includes/UserForms/WC_Register.php:140
+#: Includes/UserForms/WC_Register.php:144
+msgid "ERROR"
+msgstr "خطا"
+
+#: Backend/Settings.php:142
+msgid "Error for when value of this custom meta is exist for other user"
+msgstr "ارور برای موقعی که مقدار وارد شده، قبلاً استفاده شده است"
+
+#: Backend/Settings.php:154
+msgid "Field type"
+msgstr "نوع فیلد"
+
+#: Includes/UserForms/Register.php:42 Includes/UserForms/WC_Register.php:39
+msgid "First name"
+msgstr "نام کوچک"
+
+#: Backend/Settings.php:70
+msgid "Fullname"
+msgstr "نام کامل"
+
+#. Author URI of the plugin
+msgid "http://mjkhajeh.com"
+msgstr "http://mjkhajeh.com"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/login-with-meta/"
+msgstr "https://wordpress.org/plugins/login-with-meta/"
+
+#: Backend/Settings.php:157
+msgid "Input(Text)"
+msgstr "متن عادی(Input)"
+
+#: Backend/Settings.php:146
+msgid "Label"
+msgstr "عنوان"
+
+#: Includes/UserForms/Register.php:46 Includes/UserForms/WC_Register.php:44
+msgid "Last name"
+msgstr "نام خانوادگی"
+
+#. Name of the plugin
+msgid "Login with meta"
+msgstr "ورود با متا"
+
+#: Backend/Settings.php:61
+msgid "Login with meta settings"
+msgstr "تنظیمات ورود با متا"
+
+#: Backend/UserProfile.php:30
+msgid "LWM custom field"
+msgstr "فیلد دلخواه LWM"
+
+#. Page title,
+#: Backend/Settings.php:19 Backend/Settings.php:20
+msgid "LWM Settings"
+msgstr "تنظیمات LWM"
+
+#: Backend/Settings.php:129
+msgid "Meta key"
+msgstr "نام انگلیسی متا(Meta key)"
+
+#. Author of the plugin
+msgid "Mohammad Jafar Khajeh"
+msgstr "محمدجعفر خواجه"
+
+#: Backend/Settings.php:118
+msgid "Move 'Phone Number' field for customers register form"
+msgstr "فیلد شماره تماس را از قسمت فروشنده به قسمت عادی منتقل کن"
+
+#: Backend/Settings.php:136
+msgid "Name of field of your custom meta in registration form"
+msgstr "نام متا دلخواه در فرم عضویت"
+
+#: Backend/Settings.php:160
+msgid "Number"
+msgstr "عدد"
+
+#: Includes/UserForms/Login.php:98
+msgid "or"
+msgstr "یا"
+
+#: Includes/UserForms/Login.php:92
+msgid "or Fullname"
+msgstr "یا نام کامل"
+
+#: Includes/UserForms/Login.php:96
+msgid "or Phone"
+msgstr "یا شماره موبایل"
+
+#: Includes/UserForms/Login.php:94
+msgid "or Website"
+msgstr "یا آدرس وب سایت"
+
+#: Includes/UserForms/WC_Register.php:58
+msgid "Phone Number"
+msgstr "شماره تماس"
+
+#: Includes/UserForms/WC_Register.php:123
+msgid "Phone number is required!"
+msgstr "شماره تماس اجباری است"
+
+#: Includes/UserForms/Register.php:83 Includes/UserForms/WC_Register.php:89
+msgid "Please enter your first name"
+msgstr "لطفاً نام کوچک خود را وارد کنید"
+
+#: Includes/UserForms/Register.php:88 Includes/UserForms/WC_Register.php:94
+msgid "Please enter your last name"
+msgstr "لطفاً نام خانوادگی خود را وارد کنید"
+
+#: Includes/UserForms/Register.php:104 Includes/UserForms/WC_Register.php:110
+msgid "Please enter your website"
+msgstr "لطفاً آدرس سایت خود را وارد کنید"
+
+#: Backend/Settings.php:140
+msgid "Register filed error"
+msgstr "ارور فیلد در فرم عضویت"
+
+#: Backend/Settings.php:134
+msgid "Register filed name"
+msgstr "نام فیلد در فرم عضویت"
+
+#: Includes/UserForms/Register.php:98 Includes/UserForms/WC_Register.php:104
+msgid "This name is exist"
+msgstr "این نام وجود دارد"
+
+#: Includes/UserForms/WC_Register.php:130
+msgid "This phone number is exist"
+msgstr "این شماره تماس وجود دارد"
+
+#: Includes/UserForms/Register.php:112 Includes/UserForms/WC_Register.php:118
+msgid "This website is exist"
+msgstr "این سایت وجود دارد"
+
+#: Backend/Settings.php:159
+msgid "URL"
+msgstr "آدرس اینترنتی"
+
+#: Includes/UserForms/Register.php:54 Includes/UserForms/WC_Register.php:51
+msgid "Website"
+msgstr "آدرس سایت"
+
+#: Backend/Settings.php:88
+msgid "Website Address"
+msgstr "آدرس سایت"
+
+#. Description of the plugin
+msgid ""
+"With this plugin your users can login with any user meta you selected. like: "
+"Full name, Website address and etc."
+msgstr ""
+"با استفاده از این پلاگین کاربران شما می توانند علاوه بر نام کاربری و ایمیل "
+"برای ورود به سایت از روش های دیگری هم استفاده کنند. مثل: نام کامل، آدرس وب "
+"سایت و..."
+
+#: Backend/Settings.php:107
+msgid "Woocommerce phone"
+msgstr "شماره تلفن(ووکامرس)"
