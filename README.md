@@ -6,8 +6,8 @@ LWM is compatible with [WooCommerce](https://wordpress.org/plugins/woocommerce/)
 
 ## Support i18n
 LWM is using i18n functions. So you can translate it to your language.
-Already translated for Persian
+<br/>Already translated for Persian
 
 ## Installation
 At first download the plugin and extract it to {wp root}/wp-content/plugins
-Then active it from plugins section in wordpress dashboard
+<br/>Then active it from plugins section in wordpress dashboard
